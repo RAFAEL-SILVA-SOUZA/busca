@@ -79,7 +79,7 @@ var customerCodeReceiver = selectedCustomerInfo.CustomerCode ?? customers.First(
 var settings = await _saleSettingsService.GetSettingsAsync(productIds, selectedCustomerInfo.Cnpj, sellerId.ToString(), customerCodeReceiver);
 ```
 
-[Detalhes do Método GetSettingsAsync](Retorno%20do%20Search%2031a83f9051194b699b21698f5bc9d0f6/Detalhes%20do%20Me%CC%81todo%20GetSettingsAsync%208551c4d1302247b9bf0e63561fb865b9.md)
+[Detalhes do Metodo GetSettingsAsync](Retorno%20do%20Search%2031a83f9051194b699b21698f5bc9d0f6/Detalhes%20do%20Metodo%20GetSettingsAsync%208551c4d1302247b9bf0e63561fb865b9.md)
 
 Caso exista **Settings,** é feita uma consulta no banco de dados na tabela **Lots** passando os parâmetros em listas distintas de centerCode, materialCode, incoterm e sellerId
 
@@ -179,7 +179,7 @@ private static ProductShortDtoResult MapProduct(CachedProduct model, List<Settin
 }
 ```
 
-[Método **GetProductComboDto**](Me%CC%81todo%20GetProductComboDto%2047455753da594751886d755cd2848d92.md) 
+[Metodo **GetProductComboDto**](Metodo%20GetProductComboDto%2047455753da594751886d755cd2848d92.md) 
 
 Neste método os modelos nulos não seram mapeados.
 

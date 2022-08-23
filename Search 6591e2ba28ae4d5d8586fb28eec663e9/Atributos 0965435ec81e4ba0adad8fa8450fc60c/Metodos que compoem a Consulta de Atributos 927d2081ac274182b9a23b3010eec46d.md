@@ -1,4 +1,4 @@
-# Metodos que compõem a Consulta de Atributos
+# Metodos que compoem a Consulta de Atributos
 
 ```csharp
 public async Task<ISearchResponse<CachedProduct>> SearchProductsAttributesAsync(string term,ICollection<CustomerPermission> customersPermissions,IEnumerable<Guid> customerIds,

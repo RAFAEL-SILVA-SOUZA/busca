@@ -1,6 +1,6 @@
-# Informações do Customer
+# Informacoes do Customer
 
-Página da alanise: [Informações do Customer](../Informac%CC%A7o%CC%83es%20do%20Customer%20ba2f702c3656438f920b44dc7cedd1e0.md) 
+Página da alanise: [Informacoes do Customer](../Informacoes%20do%20Customer%20ba2f702c3656438f920b44dc7cedd1e0.md) 
 
 ### CustomerInfos
 

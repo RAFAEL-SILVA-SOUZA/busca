@@ -1,4 +1,4 @@
-# Informações do Customer
+# Informacoes do Customer
 
 O código a seguir verifica se foi passado um **SellerId** por parâmetro no scopo do objeto root(**SearchProductRequestDto**) da requisição.
 

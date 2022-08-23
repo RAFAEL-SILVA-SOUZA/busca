@@ -1,4 +1,4 @@
-# Consulta CentersCode Padrão
+# Consulta CentersCode Padrao
 
 ### O Método
 
@@ -20,7 +20,7 @@ public async Task<IEnumerable<string>> GetDefaultCentersCode(IEnumerable<CachedC
 }
 ```
 
-[Consultar CheckoutSettings do Customer](Consulta%20CentersCode%20Padra%CC%83o%20ea1c765beeae4151b588bed191ef3ef9/Consultar%20CheckoutSettings%20do%20Customer%207f5b0321104e4df9973676faf9562d0f.md)
+[Consultar CheckoutSettings do Customer](Consulta%20CentersCode%20Padrao%20ea1c765beeae4151b588bed191ef3ef9/Consultar%20CheckoutSettings%20do%20Customer%207f5b0321104e4df9973676faf9562d0f.md)
 
 Caso exista **CheckoutSettings**, é retornada uma lista de Centros de Distribuição contidas nos **CheckoutSettings.**
 

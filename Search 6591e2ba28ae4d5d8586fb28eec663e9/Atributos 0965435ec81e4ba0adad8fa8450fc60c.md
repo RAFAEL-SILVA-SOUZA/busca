@@ -61,7 +61,7 @@ private async Task<List<AttributeResponse>> GetProductsAttributesAsync(SearchPro
 
 ### Consulta de Atributos no Elsatic
 
-[Metodos que compõem a Consulta de Atributos](Atributos%200965435ec81e4ba0adad8fa8450fc60c/Metodos%20que%20compo%CC%83em%20a%20Consulta%20de%20Atributos%20927d2081ac274182b9a23b3010eec46d.md)
+[Metodos que compoem a Consulta de Atributos](Atributos%200965435ec81e4ba0adad8fa8450fc60c/Metodos%20que%20compoem%20a%20Consulta%20de%20Atributos%20927d2081ac274182b9a23b3010eec46d.md)
 
 Caso o resultado da consulta de atributos no Elastic não contenha **Aggregations,** é retornada uma lista vazia do objeto **AttributeResponse.**
 
@@ -82,7 +82,7 @@ No trecho de código a seguir, é realizada a consulta no banco utilizando as ch
 var attributes = await _attributeKeyRepository.GetByValueIds(attributesValuesIds.Keys);
 ```
 
-[Detalhes do Repositório de Consulta dos Atributos](Atributos%200965435ec81e4ba0adad8fa8450fc60c/Detalhes%20do%20Reposito%CC%81rio%20de%20Consulta%20dos%20Atributos%200472c25c045a4093a770d9cb349083df.md)
+[Detalhes do Repositorio de Consulta dos Atributos](Atributos%200965435ec81e4ba0adad8fa8450fc60c/Detalhes%20do%20Repositorio%20de%20Consulta%20dos%20Atributos%200472c25c045a4093a770d9cb349083df.md)
 
 No trecho de código a seguir é criada uma lista de objetos do tipo **AttributeResponse,** baseado no retorno da consulta ao banco.
 

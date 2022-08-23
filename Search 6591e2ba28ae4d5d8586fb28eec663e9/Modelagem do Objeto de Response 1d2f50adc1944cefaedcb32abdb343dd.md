@@ -12,4 +12,4 @@ var products = isAutocomplete
 
 [Retorno do Search](Modelagem%20do%20Objeto%20de%20Response%201d2f50adc1944cefaedcb32abdb343dd/Retorno%20do%20Search%2031a83f9051194b699b21698f5bc9d0f6.md)
 
-[Método **GetProductComboDto**](Modelagem%20do%20Objeto%20de%20Response%201d2f50adc1944cefaedcb32abdb343dd/Me%CC%81todo%20GetProductComboDto%2047455753da594751886d755cd2848d92.md)
+[Metodo **GetProductComboDto**](Modelagem%20do%20Objeto%20de%20Response%201d2f50adc1944cefaedcb32abdb343dd/Metodo%20GetProductComboDto%2047455753da594751886d755cd2848d92.md)

@@ -1,4 +1,4 @@
-# Detalhes do Método GetSettingsAsync
+# Detalhes do Metodo GetSettingsAsync
 
 No trecho de a seguir é realizada uma requisição htto na api de **Sale** para obter as **Settings.**
 

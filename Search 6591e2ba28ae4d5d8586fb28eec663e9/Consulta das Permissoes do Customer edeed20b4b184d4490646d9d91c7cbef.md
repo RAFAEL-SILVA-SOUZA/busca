@@ -1,4 +1,4 @@
-# Consulta das Permissões do Customer
+# Consulta das Permissoes do Customer
 
 ### O Método
 
@@ -48,6 +48,6 @@ public async Task<List<CustomerPermission>> GetCustomersPermissionsAsync(string 
 }
 ```
 
-[Consulta de Fabricantes Restritos](Consulta%20das%20Permisso%CC%83es%20do%20Customer%20edeed20b4b184d4490646d9d91c7cbef/Consulta%20de%20Fabricantes%20Restritos%2071866df466f943ecb0e8036414b3a680.md)
+[Consulta de Fabricantes Restritos](Consulta%20das%20Permissoes%20do%20Customer%20edeed20b4b184d4490646d9d91c7cbef/Consulta%20de%20Fabricantes%20Restritos%2071866df466f943ecb0e8036414b3a680.md)
 
-[Build de Permissões](Consulta%20das%20Permisso%CC%83es%20do%20Customer%20edeed20b4b184d4490646d9d91c7cbef/Build%20de%20Permisso%CC%83es%202e392b12bc8543349011f7514bd65159.md)
+[Build de Permissoes](Consulta%20das%20Permissoes%20do%20Customer%20edeed20b4b184d4490646d9d91c7cbef/Build%20de%20Permissoes%202e392b12bc8543349011f7514bd65159.md)

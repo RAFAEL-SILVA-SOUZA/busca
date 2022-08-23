@@ -1,4 +1,4 @@
-# Metodos que compõem a Consulta
+# Metodos que compoem a Consulta
 
 ### Deve filtrar por permissões de clientes
 

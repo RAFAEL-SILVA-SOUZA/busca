@@ -211,4 +211,4 @@ Caso o Customer não tenha permissões, o método retorna um objeto vazio do tip
 }
 ```
 
-[Metodos que compõem a Consulta](Consulta%20de%20Produtos%20edc3a270a0f44b40a126ca3ea18e2769/Metodos%20que%20compo%CC%83em%20a%20Consulta%201e44df6a142f4d8f98e5c2003d1a49be.md)
+[Metodos que compoem a Consulta](Consulta%20de%20Produtos%20edc3a270a0f44b40a126ca3ea18e2769/Metodos%20que%20compoem%20a%20Consulta%201e44df6a142f4d8f98e5c2003d1a49be.md)

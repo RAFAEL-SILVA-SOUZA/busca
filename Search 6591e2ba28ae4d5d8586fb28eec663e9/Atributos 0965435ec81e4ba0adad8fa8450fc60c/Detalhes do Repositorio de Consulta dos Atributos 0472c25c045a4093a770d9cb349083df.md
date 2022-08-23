@@ -1,4 +1,4 @@
-# Detalhes do Repositório de Consulta dos Atributos
+# Detalhes do Repositorio de Consulta dos Atributos
 
 **Database Type:** Sql
 

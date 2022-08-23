@@ -1,4 +1,4 @@
-# Método GetProductComboDto
+# Metodo GetProductComboDto
 
 O método
 

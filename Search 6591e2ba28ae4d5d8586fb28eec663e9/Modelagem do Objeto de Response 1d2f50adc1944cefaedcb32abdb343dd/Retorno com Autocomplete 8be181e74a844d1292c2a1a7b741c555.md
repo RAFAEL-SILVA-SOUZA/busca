@@ -84,7 +84,7 @@ private static ProductShortDtoResult MapProduct(CachedProduct model, List<Settin
 }
 ```
 
-[Método **GetProductComboDto**](Me%CC%81todo%20GetProductComboDto%2047455753da594751886d755cd2848d92.md) 
+[Metodo **GetProductComboDto**](Metodo%20GetProductComboDto%2047455753da594751886d755cd2848d92.md) 
 
 - Neste método os modelos nulos não seram mapeados.
 
